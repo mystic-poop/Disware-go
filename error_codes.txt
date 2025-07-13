@@ -1,0 +1,8 @@
+ERR:0 :Input not found/exists
+ERR:1101: Missing output
+ERR:1102: Command returned with error
+ERR:1201: Input/Output error
+FTL:0000: Couldnt started because of an fatal error
+FTL:000X: Bot Couldnt authorized please check permissions and the token
+WARN:1000: Output is too long. Sended as an file 
+WARN:1001: Bot isnt running as admin 
